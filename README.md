@@ -1,7 +1,7 @@
 ### Oi! eu sou o Raphael Lelis, Analista de Sistemas e um mero fã da tecnologia!👋
 
 - 🔭 I’m currently working on chatbot in Take blip
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning react 
 <div align="center">
   <a href="https://github.com/RaphaLelis">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaLelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
