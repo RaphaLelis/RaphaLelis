@@ -1,4 +1,4 @@
-### Oi! eu sou o Raphael Lelis, Analista de Sistemas e um mero fã da tecnologia!👋
+### Hey! I'm Raphael Lelis, Systems Analyst and a mere fan of technology!👋
 
 - 🔭 I’m currently working on chatbot in Take blip
 - 🌱 I’m currently learning react 
